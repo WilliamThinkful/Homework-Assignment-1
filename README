@@ -1,0 +1,7 @@
+The website performed as expected on a desktop, however, there were numerous design issues on smaller screens.
+The main purpose was to make this website function as expected on smaller screens while still keeping a similar design as the desktop view.
+Main issue with smaller screens resided in the benefits column on the right side. This had to be moved under the main content to display properly.
+All text and images utilized a flexbox design and were aligned into columns and centered to be more mobile friendly. 
+Some padding and margins were adjusted to improve the column view. 
+Main image wasn't adjusted as smaller screens tend to center in on the focal point of the image, however, this could be adjusted to fit the screen if preferred.
+No functionality adjustments were made. 
